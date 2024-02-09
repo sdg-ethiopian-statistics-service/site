@@ -23,7 +23,7 @@ cookie_consent_form:
   enabled: false
 country:
   name: Ethiopia
-  adjective: Ethiopian 
+  adjective: Ethiopian
 create_goals:
   previous_next_links: false
   goal_content_heading: ''
@@ -215,9 +215,9 @@ progress_status:
   status_types: []
 progressive_web_app:
   enabled: false
-  name: ''
-  short_name: ''
-  precaching: false
+  name: 'indicators for the sustainable Development Goals - Ethiopia '
+  short_name: SDGs Ethiopia
+  precaching: true
 proxy_indicators:
   label: ''
   description: ''
