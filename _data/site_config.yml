@@ -214,7 +214,7 @@ progress_status:
   status_help: ''
   status_types: []
 progressive_web_app:
-  enabled: false
+  enabled: true
   name: 'indicators for the sustainable Development Goals - Ethiopia '
   short_name: SDGs Ethiopia
   precaching: true
