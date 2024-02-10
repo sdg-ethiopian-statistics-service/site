@@ -20,4 +20,4 @@ remote_data_prefix: "https://Sustainable-Development-Ethiopia.github.io/data"
 
 analytics:
   # For production, you likely want to enter a Google Analytics code below.
-  ga_prod: ''
+  ga_prod: 'G-T8RJ20C725'
