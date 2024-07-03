@@ -214,7 +214,7 @@ progress_status:
   status_help: ''
   status_types: []
 progressive_web_app:
-  enabled: false
+  enabled: true
   name: 'indicators for the sustainable Development Goals - Ethiopia '
   short_name: SDGs Ethiopia
   precaching: true
@@ -250,6 +250,7 @@ time_series_attributes:
     label: indicator.footnote
   - field: DATA_LAST_UPDATE
     label: metadata_fields.national_data_update_url
+use_new_config_forms: true
 validate_indicator_config: false
 validate_site_config: false
 x_axis_label: ''

@@ -12,3 +12,10 @@ permalink: /contact-us/
 - If you have suggestions regarding additional site content or data sources, please contact [{{site.email_contacts.suggestions}}](mailto:{{site.email_contacts.suggestions}})
 
 - If you have suggestions on how to improve the functionality of this website, including data accessibility, please contact [{{site.email_contacts.functional}}](mailto:{{site.email_contacts.functional}})
+
+
+### ESS is interested in your feedback.
+
+- Ethiopian Statistical Service (ESS)
+- Tele: +251-11553112 /+251-11553011
+- Addis Ababa, Ethiopia
