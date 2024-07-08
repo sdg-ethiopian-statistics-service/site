@@ -179,7 +179,8 @@ menu:
     translation_key: menu.about
     dropdown: []
   - path: /IMIS
-    translation_key: http://www.csa.gov.et/redatam/
+    translation_key: menu.imis
+    dropdown: []
 metadata_edit_url: metadata
 metadata_tabs:
   - scope: national
