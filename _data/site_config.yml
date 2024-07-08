@@ -43,10 +43,6 @@ create_pages:
     folder: /search
     layout: search
     title: search.search
-  - filename: ''
-    folder: /imis
-    layout: imis
-    title: general.imis
 custom_css: []
 custom_js:
   - /assets/js/custom.js
@@ -181,9 +177,6 @@ menu:
     dropdown: []
   - path: /about
     translation_key: menu.about
-    dropdown: []
-  - path: /IMIS
-    translation_key: menu.imis
     dropdown: []
 metadata_edit_url: metadata
 metadata_tabs:
