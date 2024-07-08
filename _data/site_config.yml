@@ -1,4 +1,4 @@
-﻿analytics:
+analytics:
   ua: ''
   gtag: ''
   gtm: ''
@@ -56,9 +56,9 @@ disclaimer:
   message: ''
   hidden: false
 email_contacts:
-  questions: abatea72@gmail.com
-  suggestions: abatea72@gmail.com
-  functional: abatea72@gmail.com
+  questions: tigistb777@gmail.com
+  suggestions: tigistb777@gmail.com
+  functional: destinawerash@gmail.com
 empty_metadata_placeholder: ''
 empty_metadata_placeholder_sources: ''
 environment: staging
@@ -66,9 +66,9 @@ footer_language_toggle: none
 footer_menu:
   - path: /contact-us
     translation_key: menu.contact_us
-  - path: 'https://twitter.com/MyTwitterAccount'
+  - path: https://twitter.com/MyTwitterAccount
     translation_key: general.twitter
-  - path: 'https://facebook.com/MyFacebookAccount'
+  - path: https://https://www.facebook.com/essethiopia
     translation_key: general.facebook
   - path: /about/cookies-and-privacy/
     translation_key: menu.cookies
@@ -79,29 +79,13 @@ frontpage_cards:
     button_label: ''
     button_link: ''
     rule_color: ''
-  - title: Lorem ipsum
-    content: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis
-      cursus est sed dapibus.
-    include: ''
-    button_label: Read more
-    button_link: 'https://example.com'
-    rule_color: ''
-  - title: Nam vestibulum
-    content: |
-      Nam vestibulum, purus quis porttitor imperdiet, nisl sem mollis nisl, a
-      interdum risus enim vitae tortor. Donec feugiat accumsan rutrum.
-    include: ''
-    button_label: Read more
-    button_link: 'https://example.com'
-    rule_color: ''
 frontpage_goals_grid:
   title: frontpage.heading_short
   description: frontpage.instructions_shorter
 frontpage_introduction_banner:
   title: frontpage.intro_title
   description: frontpage.intro_body
-goal_image_base: 'https://open-sdg.org/sdg-translations/assets/img/goals'
+goal_image_base: https://open-sdg.org/sdg-translations/assets/img/goals
 goal_image_extension: ''
 goals_page:
   title: general.goals
@@ -143,7 +127,6 @@ indicator_tabs:
   tab_4: ''
 languages:
   - en
-  - es
 languages_public: []
 logos: []
 map_layers: []
@@ -175,7 +158,7 @@ map_options:
     opacity: 1
     fillOpacity: 0
     color: '#172d44'
-    dashArray: '5,5'
+    dashArray: 5,5
 menu:
   - path: /
     translation_key: general.home
@@ -221,7 +204,7 @@ progressive_web_app:
 proxy_indicators:
   label: ''
   description: ''
-remote_data_prefix: 'https://sdg-ethiopian-statistics-service.github.io/data/'
+remote_data_prefix: https://sdg-ethiopian-statistics-service.github.io/data/
 reporting_status:
   title: status.reporting_status
   description: status.description
@@ -236,8 +219,8 @@ reporting_status:
     - value: notapplicable
       label: status.not_applicable
       hide_on_goal_pages: false
-repository_url_data: 'https://github.com/sdg-ethiopian-statistics-service/data'
-repository_url_site: 'https://github.com/sdg-ethiopian-statistics-service/site'
+repository_url_data: https://github.com/sdg-ethiopian-statistics-service/data
+repository_url_site: https://github.com/sdg-ethiopian-statistics-service/site
 search_index_boost: []
 search_index_extra_fields: []
 site_config_form:
